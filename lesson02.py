@@ -141,5 +141,3 @@ while answer =='' or answer:
 			goods_analytics[key] += [value, ]
 
 	goods.append((len(goods)+1, structure.copy()))
-
-print(goods_analytics)
